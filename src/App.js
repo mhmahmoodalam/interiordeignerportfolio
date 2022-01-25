@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import HeroPage from './HeroPage/HeroPage'
 import Header from './Header/Header';
